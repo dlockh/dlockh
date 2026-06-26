@@ -1,7 +1,7 @@
 # Hi there, I'm Diyahnara!
 **I'm a recent IT: Information Assurance and Cybersecurity graduate from the University of Washington with a strong interest in IT systems and cybersecurity.<br><br>**
 **Currently, I'm working on an Active Directory/Windows Server 2022 management project.<br><br>**
-**Ultimately, I am woking towards a career in systems administration, GRC, IAM, or security or application analyst roles. My current focus is on strenghtening my IT fundamentals by studying the CompTIA A+ content while continuing to buld and refine hands-on projects.<br><br>**
+**Ultimately, I am woking towards a career in systems administration, GRC, IAM, or security/application analyst roles. My current focus is on strenghtening my IT fundamentals by studying the CompTIA A+ content while continuing to buld and refine hands-on projects.<br><br>**
 **In my free time, I enjoy studying certification material and watching videos to further my knowledge about troubleshooting, networks, cybsersecurity, and AI auditing!**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyahnara-lockhart-b612b3192/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dlockak@live.com) 
