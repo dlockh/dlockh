@@ -1,5 +1,5 @@
 # Hi there, I'm Diyahnara!
-**<br><br>I'm a recent IT: Information Assurance and Cybersecurity graduate from the University of Washington with a strong interest in IT systems and cybersecurity.<br><br>**
+**I'm a recent IT: Information Assurance and Cybersecurity graduate from the University of Washington with a strong interest in IT systems and cybersecurity.<br><br>**
 **Currently, I'm working on an Active Directory/Windows Server Management project.<br><br>**
 **Ultimately, I am woking towards a career in systems administration, GRC, IAM, or security or application analyst roles. My current focus is on strenghtening my IT fundamentals by studying the CompTIA A+ content while continuing to buld and refine hands-on projects.<br><br>**
 **In my free time, I enjoy studying certification material and watching videos to further my knowledge about troubleshooting, networks, cybsersecurity, and AI auditing!**
